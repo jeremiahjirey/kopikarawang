@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/e480490c-c2fc-4094-8ce0-8b310d77d3cb)## Project Name
+## Project Name
 
 Demo Website For Kopkikarawang Cafe.
 
