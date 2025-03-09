@@ -20,7 +20,7 @@ Demo Website For Kopkikarawang Cafe.
 
 
 ## Author
--[jeremiahjirey]
+[jeremiahjirey]
 
 
 
