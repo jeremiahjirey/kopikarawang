@@ -20,7 +20,7 @@ Demo Website For Kopkikarawang Cafe.
 
 
 ## Author
-[jeremiahjirey]
+[jeremiahjirey](https://www.instagram.com/jeremiahjirei/profilecard/?igsh=MXNnNWMxYzE1amVydg==)
 
 
 
