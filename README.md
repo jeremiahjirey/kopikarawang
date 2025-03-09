@@ -1,6 +1,6 @@
 ## Project Name
 
-Demo Website For Kopkikarawang Cafe.
+Demo Website For KopkikaKarawang Cafe.
 
 ## Table Of Content
 
